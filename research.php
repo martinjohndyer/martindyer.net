@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <title>Research | Martin Dyer</title>
-<?php include('elements/top.php'); ?>
-<?php include('elements/nav.php'); ?>
+<?php require('include/top.inc'); ?>
+<?php require('include/navbar.inc'); ?>
 
 <body>
 <!-- TOP IMAGE -->
@@ -28,5 +28,5 @@
 </div>
 </body>
 
-<?php include('elements/footer.php'); ?>
+<?php require('include/footer.inc'); ?>
 </html>

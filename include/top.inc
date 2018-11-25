@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="elements/w3.css">
+<link rel="stylesheet" href="include/w3.css">
 <link rel="icon" href="images/faviconB.png">
 <style>
 h1,h2,h3,h4,h5 {font-family: "Montserrat", sans-serif}
