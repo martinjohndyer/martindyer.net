@@ -51,6 +51,11 @@
 		</div>
 	</div>
 
+	<!-- Contact section -->
+	<div class="w3-container w3-padding-32" id="contact">
+		<h3>Contact</h3>
+		<p><a class="w3-button w3-round w3-black mjd-hover-red" href="/contact">Get in touch!</a></p>
+	</div>
 <!-- End Page Content -->
 </div>
 </body>
