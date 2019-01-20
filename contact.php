@@ -17,11 +17,27 @@
 <div class="w3-content w3-center" style="max-width:1000px">
 	<!-- Welcome section -->
 	<div class="w3-container w3-padding-32" id="welcome">
-		<p class="w3-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin arcu turpis, interdum id sagittis id, pharetra at diam. Nunc feugiat nec enim et lacinia. Praesent nisl turpis, venenatis eget tortor dapibus, tempus aliquam lacus. Maecenas mi elit, dignissim sit amet tellus nec, semper imperdiet tellus. Duis ut tellus metus. Cras commodo enim congue sem posuere mattis. Nulla eget ante placerat leo rhoncus dapibus eu eget est. Vivamus euismod tempor neque, quis vestibulum diam. Ut feugiat venenatis odio eget sollicitudin. Phasellus vel mi pellentesque, bibendum augue et, cursus est.</p>
-
-		<p class="w3-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin arcu turpis, interdum id sagittis id, pharetra at diam. Nunc feugiat nec enim et lacinia. Praesent nisl turpis, venenatis eget tortor dapibus, tempus aliquam lacus. Maecenas mi elit, dignissim sit amet tellus nec, semper imperdiet tellus. Duis ut tellus metus. Cras commodo enim congue sem posuere mattis. Nulla eget ante placerat leo rhoncus dapibus eu eget est. Vivamus euismod tempor neque, quis vestibulum diam. Ut feugiat venenatis odio eget sollicitudin. Phasellus vel mi pellentesque, bibendum augue et, cursus est.</p>
-
-		<p class="w3-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin arcu turpis, interdum id sagittis id, pharetra at diam. Nunc feugiat nec enim et lacinia. Praesent nisl turpis, venenatis eget tortor dapibus, tempus aliquam lacus. Maecenas mi elit, dignissim sit amet tellus nec, semper imperdiet tellus. Duis ut tellus metus. Cras commodo enim congue sem posuere mattis. Nulla eget ante placerat leo rhoncus dapibus eu eget est. Vivamus euismod tempor neque, quis vestibulum diam. Ut feugiat venenatis odio eget sollicitudin. Phasellus vel mi pellentesque, bibendum augue et, cursus est.</p>
+		<div class="w3-col m6 w3-padding-large">
+			<p class="w3-justify">
+			F21 Hicks Building <br>
+			Hounsfield Rd <br>
+			Sheffield, S3 7RH, UK <br>
+			</p>
+		</div>
+		<div class="w3-col m6 w3-padding-large w3-hide-small">
+			<p class="w3-justify">
+			<i class="fa fa-envelope"></i> martinjohndyer<i class="fa fa-at"></i>gmail.com <br>
+			<i class="fa fa-github"></i> <a href="https://github.com/martinjohndyer">martinjohndyer</a> <br>
+			<i class="fa fa-twitter"></i> <a href="https://twitter.com/martinjohndyer">martinjohndyer</a> <br>
+			</p>
+		</div>
+		<div class="w3-col m6 w3-padding-large w3-hide-medium w3-hide-large">
+			<p class="w3-justify">
+			<i class="fa fa-envelope"></i> martinjohndyer<i class="fa fa-at"></i>gmail.com <br>
+			<i class="fa fa-github"></i> <a href="https://github.com/martinjohndyer">martinjohndyer</a> <br>
+			<i class="fa fa-twitter"></i> <a href="https://twitter.com/martinjohndyer">martinjohndyer</a> <br>
+			</p>
+		</div>
 	</div>
 
 <!-- End Page Content -->

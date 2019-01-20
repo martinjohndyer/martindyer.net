@@ -17,11 +17,14 @@
 <div class="w3-content w3-center" style="max-width:1000px">
 	<!-- Welcome section -->
 	<div class="w3-container w3-padding-32" id="welcome">
-		<p class="w3-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin arcu turpis, interdum id sagittis id, pharetra at diam. Nunc feugiat nec enim et lacinia. Praesent nisl turpis, venenatis eget tortor dapibus, tempus aliquam lacus. Maecenas mi elit, dignissim sit amet tellus nec, semper imperdiet tellus. Duis ut tellus metus. Cras commodo enim congue sem posuere mattis. Nulla eget ante placerat leo rhoncus dapibus eu eget est. Vivamus euismod tempor neque, quis vestibulum diam. Ut feugiat venenatis odio eget sollicitudin. Phasellus vel mi pellentesque, bibendum augue et, cursus est.</p>
+		<p class="w3-justify">
+		TODO
+		</p>
 
-		<p class="w3-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin arcu turpis, interdum id sagittis id, pharetra at diam. Nunc feugiat nec enim et lacinia. Praesent nisl turpis, venenatis eget tortor dapibus, tempus aliquam lacus. Maecenas mi elit, dignissim sit amet tellus nec, semper imperdiet tellus. Duis ut tellus metus. Cras commodo enim congue sem posuere mattis. Nulla eget ante placerat leo rhoncus dapibus eu eget est. Vivamus euismod tempor neque, quis vestibulum diam. Ut feugiat venenatis odio eget sollicitudin. Phasellus vel mi pellentesque, bibendum augue et, cursus est.</p>
 
-		<p class="w3-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin arcu turpis, interdum id sagittis id, pharetra at diam. Nunc feugiat nec enim et lacinia. Praesent nisl turpis, venenatis eget tortor dapibus, tempus aliquam lacus. Maecenas mi elit, dignissim sit amet tellus nec, semper imperdiet tellus. Duis ut tellus metus. Cras commodo enim congue sem posuere mattis. Nulla eget ante placerat leo rhoncus dapibus eu eget est. Vivamus euismod tempor neque, quis vestibulum diam. Ut feugiat venenatis odio eget sollicitudin. Phasellus vel mi pellentesque, bibendum augue et, cursus est.</p>
+
+
+
 	</div>
 
 <!-- End Page Content -->

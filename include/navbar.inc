@@ -24,7 +24,7 @@
 </div>
 
 <!-- Navbar on small screens  -->
-<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
+<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:48px">
 	<a class="w3-bar-item w3-button w3-padding-large mjd-hover-red" href="/">HOME</a>
 	<a class="w3-bar-item w3-button w3-padding-large mjd-hover-red" href="/research">RESEARCH</a>
 	<a class="w3-bar-item w3-button w3-padding-large mjd-hover-red" href="/aboutme">ABOUT ME</a>
