@@ -23,7 +23,7 @@
 		I'm currently a PhD student in the <a href="http://www.astro.group.shef.ac.uk/">Astronomy & Astrophysics Group</a> at the University of Sheffield and member of the <a href="http://goto-observatory.org/">GOTO Collaboration</a>.
 		</p>
 		<p class="w3-justify">
-		<i>This website is work in progress, please let me know if you find something missing or broken! And sorry if there's any </i>lorem ipsum<i> still floating around...</i>
+		<i>This website is work in progress, please let me know if you find something missing or broken!</i>
 		</p>
 	</div>
 
@@ -41,7 +41,7 @@
 			The core of the project has been the creation of the <b>GOTO Telescope Control System</b> (G-TeCS), a software package written in Python to control all aspects of the telescope and observatory: hardware interfaces, robotic nightly operation, automatic alert listening, target scheduling and follow-up.
 			</p>
 			<p class="w3-justify">
-			Aside from my work on GOTO I'm also a member of the <b>ULTRACAM/ULTRASPEC/HiPERCAM</b> team, and I've carried out observing runs with all three instruments on the TNT, NTT and GTC. 
+			Aside from my work on GOTO I'm also a member of the <b>ULTRACAM/ULTRASPEC/HiPERCAM</b> team, and I've carried out observing runs with all three instruments on the TNT, NTT and GTC.
 			</p>
 			<p><a class="w3-button w3-round w3-black mjd-hover-red" href="/research">Read more...</a></p>
 		</div>
